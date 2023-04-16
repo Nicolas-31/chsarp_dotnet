@@ -1,6 +1,4 @@
-﻿internal class Program
-{
-    // For loop - Factorial
+// Multi-dimensional arrays - findMax 
     public static void Main(string[] args)
     {
         // the following is 3x2 array 
@@ -43,4 +41,34 @@
         }
         return maxNumber;
     }
-}
+
+
+/*
+Multi-dimensional arrays - FindMax
+Implement the FindMax method, which given a two-dimensional array of integers, returns the maximal value from this array.
+
+If any of the array's dimensions is zero, it means the array is empty, and the method should return -1.
+
+For example:
+
+for an empty array of size [0,3] the result should be -1
+
+for an array like this, the result should be 12
+
+[
+
+   [3, 5],
+   [-1, 12],
+   [4, 0]
+
+
+]
+
+
+
+
+
+
+
+
+*/
