@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\bin\Debug\net7.0\TODOList.exe
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\bin\Debug\net7.0\TODOList.deps.json
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\bin\Debug\net7.0\TODOList.runtimeconfig.json
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\bin\Debug\net7.0\TODOList.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\bin\Debug\net7.0\TODOList.pdb
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\refint\TODOList.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.pdb
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\TODOList.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\TODOList\TODOList\obj\Debug\net7.0\ref\TODOList.dll
