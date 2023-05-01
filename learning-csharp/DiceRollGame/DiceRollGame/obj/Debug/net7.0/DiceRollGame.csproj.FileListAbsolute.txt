@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\bin\Debug\net7.0\DiceRollGame.exe
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\bin\Debug\net7.0\DiceRollGame.deps.json
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\bin\Debug\net7.0\DiceRollGame.runtimeconfig.json
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\bin\Debug\net7.0\DiceRollGame.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\bin\Debug\net7.0\DiceRollGame.pdb
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\refint\DiceRollGame.dll
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.pdb
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\Github\learning-csharp\DiceRollGame\DiceRollGame\obj\Debug\net7.0\ref\DiceRollGame.dll
